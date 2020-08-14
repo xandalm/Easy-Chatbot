@@ -3,3 +3,5 @@ cornell/*
 maluuba/*
 portugues/*
 rdany/*
+
+!*.py
